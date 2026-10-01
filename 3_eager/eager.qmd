@@ -1,7 +1,7 @@
 ---
 title: "Introduction to nf-core/eager"
 author: "Selina Carlhoff"
-date: "30/10/2026"
+date: "09/30/2026"
 bibliography: ../references.bib
 toc: true
 format:

@@ -35,7 +35,7 @@ nf-core/eager streamlines the initial steps of ancient DNA analysis from FASTQ f
     3.  Damage removal/Base trimming: mapDamage2, Bamutils [@jun2015]
     4.  Human nuclear contamination estimation: ANGSD [@korneliussen2014]
     5.  Metagenomic screening: BBduk [@bbtools], HOPS [@hübler2019], Kraken & Kraken Parse [@wood2014], MALT & MaltExtract [@herbig2016]
-4.  Variant calling: GATK UnifiedGenotyper & HaplotypeCaller [@McKenna2010], sequenceTools pileupCaller [@schiffels2024], VCF2Genome [@peltzer2016], MultiVCFAnalyzer [@bos2014], freebayes [@garrison2012], ANGSD
+4.  Variant calling: GATK UnifiedGenotyper & HaplotypeCaller [@McKenna2010], sequenceTools pileupCaller [@schiffels2026], VCF2Genome [@peltzer2016], MultiVCFAnalyzer [@bos2014], freebayes [@garrison2012], ANGSD
 5.  Report generation: MultiQC [@ewels2016]
 
 ![Simplified schematic of the nf-core/eager workflow pipeline, green bubbles mark functionality added to nf-core/eager over EAGER v.1 [@peltzer2016], figure from [@FellowsYates2021].](eager2_workflow.png){#fig-eagerscheme fig-align="center"}
